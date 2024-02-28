@@ -4,7 +4,7 @@ This repository contains the backend code for an API designed to manage mentors 
 
 ## Quick Start Guide
 
-Our API server is conveniently hosted at: `https://assigning-mentor-and-student.onrender.com`
+Our API server is conveniently hosted at: `https://assign-mentor-7ums.onrender.com/`
 
 ## Key API Endpoints
 
